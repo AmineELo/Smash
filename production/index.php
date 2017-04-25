@@ -16,6 +16,7 @@
    </div>
 
  <?php
+  // amine's commit
    include 'includes/footer.php';
    include 'includes/page_Footer.php';
  ?>
